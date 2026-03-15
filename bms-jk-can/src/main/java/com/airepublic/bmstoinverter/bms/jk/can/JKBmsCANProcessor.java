@@ -265,7 +265,6 @@ public class JKBmsCANProcessor extends BMS {
         // max 25 cells are read
         for (int i = 0; i < 4 && offset + i < 25; i++) {
             pack.cellVmV[i + offset] = data.getChar();
-            i++;
         }
     }
 
