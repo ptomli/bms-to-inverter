@@ -62,6 +62,7 @@
 		<module>inverter-pylon-can</module>
 		<module>inverter-pylon-hv-can</module>
 		<module>inverter-pylon-rs485</module>
+		<module>inverter-pylon2-rs485</module>
 		<module>inverter-solark-can</module>
 		<module>inverter-solis-hv-can</module>
 		<module>inverter-sma-si-can</module>

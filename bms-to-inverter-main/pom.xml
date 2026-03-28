@@ -395,6 +395,20 @@
 			<version>${project.version}</version>
 		</dependency>
 
+		<!-- ####################  PYLON (RS485)  ################### -->
+		<dependency>
+			<groupId>com.ai-republic.bms-to-inverter</groupId>
+			<artifactId>inverter-pylon-rs485</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+		<!-- ####################  PYLON2 (RS485)  ################### -->
+		<dependency>
+			<groupId>com.ai-republic.bms-to-inverter</groupId>
+			<artifactId>inverter-pylon2-rs485</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
 		<!-- ####################  SMA Sunny Island (CAN)  ################### -->
 		<dependency>
 			<groupId>com.ai-republic.bms-to-inverter</groupId>
